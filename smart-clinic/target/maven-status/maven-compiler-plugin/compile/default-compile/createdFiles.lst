@@ -1,0 +1,9 @@
+com\smartclinic\SmartClinicApplication.class
+com\smartclinic\controller\AuthController.class
+com\smartclinic\entity\Doctor.class
+com\smartclinic\entity\Patient.class
+com\smartclinic\repository\PatientRepository.class
+com\smartclinic\repository\AppointmentRepository.class
+com\smartclinic\controller\AppointmentController.class
+com\smartclinic\entity\Appointment.class
+com\smartclinic\repository\DoctorRepository.class
